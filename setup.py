@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # File name   : setup.py
-# Description : RaspTank Setup Script
+# Description : RaspTank Setup Script (REVAMPED)
 # Website     : www.adeept.com
 # E-mail      : support@adeept.com
 # Author      : Shaun Longworth
